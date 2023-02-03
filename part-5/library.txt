@@ -1,0 +1,3 @@
+HP, JKR, 1991, 5.0, 300
+Lord of the Rings, JRR Tolkien, 1954, 5.0, 1000
+Little Prince, Antoine de Saint Exuperi, 1000, 3.0, 100
